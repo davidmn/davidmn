@@ -6,6 +6,6 @@ I build distributed event driven systems, mostly in C#, hosted in Kubernetes, ba
 
 I love to build really simple static sites that do one specific thing, for example an easy way for a podcast I enjoy to [share their playlists](https://enjoyaplayli.st), or a simple [scoreboard for playing crokinole](https://davidmn.github.io/crokinole-scoring/).
 
-Outside of tech I love table top gaming, being a butler to our cat Enzo, and listening to/playing niche heavy music. 
+Outside of tech I love table top gaming, being a butler to our cat Enzo, and listening to/playing niche guitar-centric music. 
 
-![Enzo the cat. A close up of a black and white cat snoozing on a grey blanket.](enzo.jpeg)
+![Enzo the cat. A close up of a black and white cat snoozing on a grey blanket.](enzo.jpeg)guit
